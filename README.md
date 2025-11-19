@@ -1,6 +1,6 @@
 # ᝰ.ᐟ Arc testnet multidapp, interact onchain
 
-Link: [https://rewards.arcterminal.ai/loyalty](https://rewards.arcterminal.ai/loyalty?referral_code=KKFXDY2K)
+Link: [https://www.arc.network/]
 
 Source: https://amautomarket.com/products/arc-testnet-automate
 
